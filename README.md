@@ -1,2 +1,3 @@
 # study
-a java min student
+
+System.out.println("hello CN");
