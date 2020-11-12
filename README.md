@@ -1,2 +1,5 @@
 # study
-a java min student
+public void main String args[]
+{
+system.out.println("hello world");
+}
